@@ -1,0 +1,38 @@
+{
+  "main": {
+    "name": "dev",
+    "occupation": "Reliable anchor internet cafe,",
+    "description": "We take pride in helping our customers, communty with the best service & solutions",
+    "image": "logo1.png",
+    "bio": "As a developer, I am seeking a role which allows me to continue learning and perfecting my skills as I provide high-quality work and encourages me to flourish as a Junior Software Engineer.  ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "goitsebofelo@gmail.com",
+    "phone": "+27 60 787 4083",
+    "address": {
+      "street": "4860 Lakeside ext2",
+      "suburb": "Orange farm",
+      "city": "Johannesburg",
+      "state": "South Africa"
+    },
+    "hours": {
+      "M": "Monday -> 9am - 18pm",
+      "T": "Tuesday -> 9am - 18pm",
+      "W": "Wensday -> 9am - 18pm",
+      "Th": "Thursday -> 9am - 18pm",
+      "F": "Friday -> 9am - 18pm",
+      "S": "Saturday -> 9am - 13pm"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100008923965123",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "phone",
+        "url": "tel: +27607874083",
+        "className": "fa fa-phone"
+      }
+    ]
+  }
+}
