@@ -14,18 +14,18 @@ class Footer extends Component {
 
      <div className="row">
         <div className="twelve columns">
-           <ul className="social-links">
-              {networks}
-           </ul>
+          <ul className="social-links">
+            {networks}
+          </ul>
 
-           <ul>
-            <li>Made with love ♥️</li>
-           </ul>
+          <ul>
+          <li>Made with love<span>♥️</span></li>
+          </ul>
 
-           <ul className="copyright">
-              <li>&copy; Copyright 2021</li>
-              <li>Design by <a title="Styleshout" href="http://matthewthabo.github.io/">ThaboMatlenana</a></li>
-           </ul>
+          <ul className="copyright">
+            <li>&copy; Copyright 2021</li>
+            <li>Design by <a title="Styleshout" href="http://matthewthabo.github.io/">ThaboMatlenana</a></li>
+          </ul>
 
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
