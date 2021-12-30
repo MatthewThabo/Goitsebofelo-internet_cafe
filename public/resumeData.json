@@ -20,12 +20,12 @@
       "W": "Wensday -> 9am - 18pm",
       "Th": "Thursday -> 9am - 18pm",
       "F": "Friday -> 9am - 18pm",
-      "S": "Saturday -> 9am - 13pm"
+      "S": "Sunday -> 9am - 15pm"
     },
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/profile.php?id=100008923965123",
+        "url": "",
         "className": "fa fa-facebook"
       },
       {
