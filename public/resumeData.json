@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "dev",
-    "occupation": "Reliable anchor internet cafe,",
+    "occupation": "reliable anchor internet cafe,",
     "description": "We take pride in helping our customers, communty with the best service & solutions",
     "image": "logo1.png",
-    "bio": "As a developer, I am seeking a role which allows me to continue learning and perfecting my skills as I provide high-quality work and encourages me to flourish as a Junior Software Engineer.  ",
+    "bio": "Goitsebofelo the anchor-internet cafe is a place that we offers customers hi-speed internet access, deals with internet time that a customer buys and it can be sold per hour or minute and sometimes longer & other computer services  ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "goitsebofelo@gmail.com",
     "phone": "+27 60 787 4083",
@@ -25,7 +25,7 @@
     "social": [
       {
         "name": "facebook",
-        "url": "",
+        "url": "https://www.facebook.com/107986533937859",
         "className": "fa fa-facebook"
       },
       {
