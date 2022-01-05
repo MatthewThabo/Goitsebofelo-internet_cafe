@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 // import ReactGA from 'react-ga';
+import FloatingWhatsApp from 'react-floating-whatsapp';
 import $ from 'jquery';
 import './App.css';
 import Header from './Components/Header';
@@ -46,6 +47,15 @@ class App extends Component {
         <Portfolio data={this.state.resumeData.portfolio}/>
         <Contact data={this.state.resumeData.main}/>
         <Footer data={this.state.resumeData.main}/>
+        <FloatingWhatsApp
+        phoneNumber="+27607874083"
+        accountName="Goitsebofelo"
+        height={360}
+        allowClickAway
+        notification
+        notificationDelay={60000} // 1 minute
+        notificationSound
+      />
       </div>
     );
   }
