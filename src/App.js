@@ -49,7 +49,7 @@ class App extends Component {
         <Footer data={this.state.resumeData.main}/>
         <FloatingWhatsApp
         phoneNumber="+27607874083"
-        accountName="Goitsebofelo"
+        accountName="Goitsebofelon"
         height={360}
         allowClickAway
         notification
