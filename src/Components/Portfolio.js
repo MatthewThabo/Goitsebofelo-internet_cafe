@@ -67,6 +67,7 @@ class Portfolio extends Component {
                         <h3>Logo's R100.00 : per logo</h3>
                         <h3>A4 Picture's R25.00 : per pic</h3>
                         <h3>Sametime Photo R20.00 : per pic</h3>
+                        <h3>Website Design : Price differ by website</h3>
 
                     </div>
                 </div>
