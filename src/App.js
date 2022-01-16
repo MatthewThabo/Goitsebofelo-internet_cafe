@@ -8,7 +8,7 @@ import Footer from './Components/Footer';
 import About from './Components/About';
 import Contact from './Components/Contact';
 import Portfolio from './Components/Portfolio';
-import image from '../src/logo1.png';
+import logo1 from '../src/logo1.png';
 
 class App extends Component {
 
@@ -50,10 +50,10 @@ class App extends Component {
         <Footer data={this.state.resumeData.main}/>
         <FloatingWhatsApp
         phoneNumber="+27607874083"
-        accountName="Goitsebofelo"
+        accountName="Goitsebofeloo"
         height={360}
-        avatar={image}
-        statusMessage="Typically replies within 5 minutes"
+        avatar={logo1}
+        statusMessage="Typically replies within 2-5 minutes"
         className="custom-class"
         allowClickAway={false}
         notification
