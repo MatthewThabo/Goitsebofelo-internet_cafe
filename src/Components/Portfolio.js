@@ -56,7 +56,7 @@ class Portfolio extends Component {
                         <h3>Obituary R200.00 : 30 copies back to back</h3>
                         <h3>Flyers R120.00 : 40 copies</h3>
                         <h3>Company Registering R500.00 : per company</h3>
-                        <h3>Tax Number R40.00 : per person</h3>
+                        <h3>Natis | Psira | SARS R40.00 : per person</h3>
                         <h3>Animation Invitation R80.00</h3>
                         <h3>Business Profile R150.00 : per profile</h3>
                         <h3>Invoice & Quotation R40.00 : per invoice</h3>
