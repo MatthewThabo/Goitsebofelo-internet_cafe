@@ -21,12 +21,14 @@ class Portfolio extends Component {
                         <h3>ID Card R3.00</h3>
                         <h3>A4 Copy R2.00</h3> 
                         <h3>A4 Color copy R5.00</h3>
-                        <h3>A3 Copy R5.00</h3>
+                        <h3>A3 Copy R8.00</h3>
                         <h3>A3 Color copy R10.00</h3>
                         <h3>A4 Printout R5.00</h3>
                         <h3>A4 Printout color R10.00</h3>
+                        <h3>A4 Printout color with pic R12.00</h3>
                         <h3>A3 Printout R15.00</h3>
                         <h3>A3 Printout color R20.00</h3>
+                        <h3>A3 Printout color pic R22.00</h3>
                     </div>
                 </div>
                  {/* <!-- contact item end --> */}
@@ -34,15 +36,14 @@ class Portfolio extends Component {
                 <div className="contact-item">
                     <div className="contact-item-inner outer-shadow">
                         <span>Per Page</span>
-                            <h3>A4 Scan R3.00</h3>
-                            <h3>A3 Scan R8.00</h3>
+                            <h3>A4 Scan R4.00</h3>
+                            <h3>A3 Scan R12.00</h3>
                             <h3>Online Booking R35.00</h3>
                             <h3>Online Registering R35.00</h3>
-                            <h3>School Registering R25.00</h3>
-                            <h3>CV,Edit & Typing R10.00</h3>
-                            <h3>Software Update R80.00</h3>
-                            <h3>Lamination R12.00</h3>
-                            <h3>A3 Lamination R22.00</h3>
+                            <h3>CV,Edit & Typing R12.00</h3>
+                            <h3>Software Update R120.00</h3>
+                            <h3>Lamination R15.00</h3>
+                            <h3>A3 Lamination R25.00</h3>
                             <h3>Vaccine Certificate R20.00</h3>
                            
                     </div>
@@ -53,14 +54,15 @@ class Portfolio extends Component {
                     <div className="contact-item-inner outer-shadow">
                         {/* <span>Per Page</span> */}
                         <h3>Business Card R200.00 : 100 copies</h3>
-                        <h3>Obituary R200.00 : 30 copies back to back</h3>
-                        <h3>Flyers R120.00 : 40 copies</h3>
+                        <h3>Obituary R220.00 : 40 copies back to back</h3>
+                        <h3>Flyers R200.00 : 40 copies</h3>
                         <h3>Company Registering R500.00 : per company</h3>
-                        <h3>Natis | Psira | SARS R40.00 : per person</h3>
-                        <h3>Animation Invitation R80.00</h3>
-                        <h3>Business Profile R150.00 : per profile</h3>
+                        <h3>SARS R40.00 : per person</h3>
+                        <h3>Animation Invitation R100.00</h3>
+                        <h3>Business Profile R250.00 : per profile</h3>
+                        <h3>Business Plan R250.00 : per plan</h3>
                         <h3>Invoice & Quotation R40.00 : per invoice</h3>
-                        <h3>Poster R150.00 : 10 color copies</h3>
+                        <h3>Poster R200.00 : 10 color copies</h3>
                         <h3>A3 Menu + Lamination R50.00 : per menu</h3>
                         <h3>Email R10.00 : per e-mail</h3>
                         <h3>Email Creation R25 : per e-mail</h3>
